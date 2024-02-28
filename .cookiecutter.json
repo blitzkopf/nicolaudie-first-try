@@ -1,0 +1,13 @@
+{
+  "_checkout": "2021.1.1",
+  "_output_dir": "/home/yngvi/DMX/integration/nicolaudie",
+  "_repo_dir": "/home/yngvi/.cookiecutters/cookiecutter-homeassistant-custom-component",
+  "_template": "https://github.com/oncleben31/cookiecutter-homeassistant-custom-component",
+  "class_name_prefix": "Nicolaudie",
+  "domain_name": "nicolaudie",
+  "friendly_name": "Nicolaudie Stick",
+  "github_user": "blitzkopf",
+  "project_name": "nicolaudie",
+  "test_suite": "yes",
+  "version": "0.0.0"
+}
