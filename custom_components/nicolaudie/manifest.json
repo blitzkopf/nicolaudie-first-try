@@ -9,5 +9,5 @@
   "loggers": ["nicostick"],
   "config_flow": true,
   "codeowners": ["@blitzkopf"],
-  "requirements": []
+  "requirements": ["nicostick==0.0.1"]
 }
